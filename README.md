@@ -1,2 +1,2 @@
-# ts__introduction
+# ts_introduction
 TypeScript勉強用
