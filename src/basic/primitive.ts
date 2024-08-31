@@ -1,4 +1,4 @@
-export default function primitiveSample() {
+export default function primitiveSample(): void {
   const name = 'tsハック'
   // name = 123
   console.log('primitive sample 1:', typeof name, name)
